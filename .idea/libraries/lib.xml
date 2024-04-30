@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../vers-00-lib/dbtech_lib/lib" />
+      <root url="file://$PROJECT_DIR$/../vers-00-lib/dbtech_lib/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../vers-00-lib/dbtech_lib/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../vers-00-lib/dbtech_lib/lib" recursive="false" />
+  </library>
+</component>
